@@ -7,3 +7,6 @@ AWS Certification validates cloud expertise to help professionals highlight in-d
 Explore our role-based certifications for those in Cloud Practitioner, Architect, Developer, and Operations roles, as well as our Specialty certifications in specific technical areas.
 
 ![](_media/certification.png)
+
+
+![](_media/RampUp.pdf)

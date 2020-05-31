@@ -1,1 +1,1 @@
-## EC2 Introduction
+# EC2 Introduction
